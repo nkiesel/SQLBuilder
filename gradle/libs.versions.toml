@@ -6,7 +6,7 @@ junit5 = "5.9.1"
 kotest = "5.5.4"
 logback = "1.4.5"
 logging = "3.0.4"
-mockito = "4.9.0"
+mockito = "4.10.0"
 mockk = "1.13.3"
 ojdbc11 = "21.8.0.0"
 opencsv = "5.7.1"
@@ -16,7 +16,7 @@ plugin-versions = "0.44.0"
 plugin-versionsFilter = "0.1.16"
 plugin-versionsUpdate = "0.7.0"
 postgresql = "42.5.1"
-slf4j = "2.0.5"
+slf4j = "2.0.6"
 
 [libraries]
 antlr = { module = "org.antlr:antlr4", version.ref = "antlr" }
