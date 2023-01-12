@@ -1,8 +1,8 @@
 [versions]
 antlr = "4.11.1"
-assertj = "3.24.0"
+assertj = "3.24.1"
 codec = "1.15"
-junit5 = "5.9.1"
+junit5 = "5.9.2"
 kotest = "5.5.4"
 logback = "1.4.5"
 logging = "3.0.4"
