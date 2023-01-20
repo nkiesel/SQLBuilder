@@ -1,6 +1,6 @@
 [versions]
 antlr = "4.11.1"
-assertj = "3.24.1"
+assertj = "3.24.2"
 codec = "1.15"
 junit5 = "5.9.2"
 kotest = "5.5.4"
