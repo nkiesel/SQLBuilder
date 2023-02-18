@@ -11,11 +11,11 @@ mockk = "1.13.4"
 ojdbc11 = "21.9.0.0"
 opencsv = "5.7.1"
 plugin-detekt = "1.22.0"
-plugin-ktlint = "11.1.0"
+plugin-ktlint = "11.2.0"
 plugin-versions = "0.45.0"
 plugin-versionsFilter = "0.1.16"
 plugin-versionsUpdate = "0.7.0"
-postgresql = "42.5.3"
+postgresql = "42.5.4"
 slf4j = "2.0.6"
 
 [libraries]
