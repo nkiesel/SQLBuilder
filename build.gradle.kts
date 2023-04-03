@@ -3,7 +3,7 @@ plugins {
     `java-library`
     `maven-publish`
     signing
-    kotlin("jvm") version "1.8.10"
+    kotlin("jvm") version "1.8.20"
     alias(libs.plugins.ktlint)
     alias(libs.plugins.detekt)
     alias(libs.plugins.versions)
@@ -74,7 +74,7 @@ subprojects {
                     licenses {
                         license {
                             name.set("The Apache License, Version 2.0")
-                            url.set("http://www.apache.org/licenses/LICENSE-2.0.txt")
+                            url.set("https://www.apache.org/licenses/LICENSE-2.0.txt")
                         }
                     }
                     developers {
